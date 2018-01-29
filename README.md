@@ -23,7 +23,7 @@ The project is composed of different [Docker](https://www.docker.com/) container
 6. Download the frontend dependencies
 
   ```
-  docker-compose run --rm npm install
+  docker-compose run frontend npm install
   ```
   
 7. Run the project
